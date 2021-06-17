@@ -1,4 +1,3 @@
-const
 
 
 const $player1 = document.createElement('div');
